@@ -1,10 +1,6 @@
-### Quyidagi matnni aynan shunday ko'rinishda konsolda chiqaring:
+### Quyidagi mashqlarni bajaring:
 
-- ` "Nexia", "Tico", 'Damas' ko'rganlar qilar havas`
-  Quyidagi misollarga yechimni Pythonda chiqaring. Har bir misoldan avval misol matnini izoh ko'rinishida yozing:
-- 5 ning 4-darajasini toping
-- 22 ni 4 ga bo'lganda qancha qoldiq qoladi?
-- Tomonlari 125 ga teng kvadratning yuzi va perimetrini toping
-- Diametri 12 ga teng bo'lgan doiraning yuzini toping ( deb oling)
-- Katetlari 6 va 7 bo'lgan to'g'ri burchakli uchburchakning gipotenuzasini toping (Pifagor teoremasidan foydalaning)
-- Javoblarni savol va yechim ko'rinishida chiqaring: 5 ning 4-darajasi 625
+- "Hello World!" matnini yangi o'zgaruvchiga yuklang va print() yordamida konsolga chiqaring
+- xabar deb nomlangan o'zgaruvchiga biror matn yuklang va konsolga chiqaring, keyin esa o'zgaruvchiga yangi qiymat berib uni ham konsolga chiqaring.
+- class den nomlangan o'zgaruvchi yarating, unga biror qiymat bering va konsolga chiqaring (siz kutgan natija chiqdimi?)
+- Quyidagi kodni bajaring: `radius = 5 pi = 3.14159 aylana_yuzi = pi * radius**2 print("Radiusi" , radius, "ga teng aylananing yuzi=", aylana_yuzi)`
